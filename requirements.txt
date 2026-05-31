@@ -1,0 +1,7 @@
+yfinance
+pandas
+numpy
+TA-Lib
+plotly
+python-telegram-bot==20.8
+kaleido
