@@ -1,0 +1,2 @@
+# MyForexxanalyzerbot
+Analyze forex pairs
